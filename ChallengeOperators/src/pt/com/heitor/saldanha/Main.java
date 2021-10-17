@@ -15,6 +15,8 @@ public class Main {
         int score = 5000;
         int levelCompleted = 5;
         int bonus = 100;
+        
+        // TEST BRANCH
 
         if (gameOver) {
             int finalScore = score + (levelCompleted * bonus);
